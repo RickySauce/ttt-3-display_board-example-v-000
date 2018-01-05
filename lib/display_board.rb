@@ -14,4 +14,4 @@ def display_board
   puts " #{cell_4}| #{cell_5}|#{cell_6}"
   puts " ----------- "
   puts " #{cell_7}| #{cell_8}|#{cell_9}"
-end    
+end
